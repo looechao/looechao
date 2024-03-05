@@ -21,11 +21,13 @@
   text-align: center;"><b>Focus on : C++|Zen|Minimalism</b></p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=looechao&theme=ambient_gradient " style="width:60%;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=looechao&theme=ambient_gradient"  style="width:60%;"/>
 </p>
+
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=looechao&layout=compact&theme=ambient_gradient" style="width:60%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=looechao&layout=compact&theme=ambient_gradient"  style="width:60%;"/>
 </p>
+
 ![](https://komarev.com/ghpvc/?username=looechao&color=ff69b4)
 
 
