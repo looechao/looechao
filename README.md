@@ -1,4 +1,38 @@
-### Hi there 👋
+<h1 align="center" style="
+  background: linear-gradient(to right, blue , purple, yellow);
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  text-align: center;">Hi, I'm <a href="https://looechao.github.io/">Lu Chao</a>!</h1>
+<p align="center" style="
+  background: linear-gradient(to right, blue , purple, yellow);
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  text-align: center;"><b>A life-long student|Information and computing science senior at CSUFT</b></p>
+<p align="center"style="
+  background: linear-gradient(to right, blue , purple, yellow);
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  text-align: center;"><b>Focus on : C++|Zen|Minimalism</b></p>
+
+<p align="center">
+  <a href="你的链接">
+    <img src="https://github-readme-stats.vercel.app/api?username=looechao&theme=ambient_gradient " style="width:60%;"/>
+  </a>
+</p>
+<p align="center">
+  <a href="你的链接">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=looechao&layout=compact&theme=ambient_gradient " style="width:60%;"/>
+  </a>
+</p>
+![](https://komarev.com/ghpvc/?username=looechao&color=ff69b4)
+
+
 
 <!--
 **looechao/looechao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
