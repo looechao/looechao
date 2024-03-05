@@ -1,10 +1,10 @@
-<h1 align="center" style="
+<h3 align="center" style="
   background: linear-gradient(to right, blue , purple, yellow);
   -webkit-background-clip: text;
   -moz-background-clip: text;
   background-clip: text;
   color: transparent;
-  text-align: center;">Hi, I'm <a href="https://looechao.github.io/">Lu Chao</a>!</h1>
+  text-align: center;">Hi, I'm <a href="https://looechao.github.io/">Lu Chao</a>!</h3>
 <p align="center" style="
   background: linear-gradient(to right, blue , purple, yellow);
   -webkit-background-clip: text;
@@ -21,11 +21,11 @@
   text-align: center;"><b>Focus on : C++|Zen|Minimalism</b></p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=looechao&theme=radical"  style="width:40%;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=looechao&theme=radical"  style="width:55%;"/>
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=looechao&layout=compact&theme=radical"  style="width:40%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=looechao&layout=compact&theme=radical"  style="width:55%;"/>
 </p>
 
 <p align="center">
