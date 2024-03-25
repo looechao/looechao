@@ -24,14 +24,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=looechao&theme=radical"  style="width:55%;"/>
 </p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=looechao&layout=compact&theme=radical"  style="width:55%;"/>
-</p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=looechao&color=ff69b4"  style="width:15%;"/>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@looechao?theme=asoul"></a>
 </p>
-
 
 
 
