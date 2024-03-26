@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Spray+Paint&size=40&duration=1500&pause=1000&color=0761F7&vCenter=true&random=false&width=550&height=50&lines=HI%2C+I'm+looechao.;Follow+me+on+github.)](https://looechao.github.io/)
 
-<hr style="border:1px dashed #000;"/>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1&pause=1000&color=0761F7&vCenter=true&random=false&width=900&height=10&lines=---------------------------------------------------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
 <img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=1000&height=20&lines=About+me">
 
 A life-long student.
@@ -31,9 +30,8 @@ C++ | Zen | Minimalism
 
 Information & computing science (情報計算科学科) | CSUFT (中南林業科技大學)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1&pause=1000&color=0761F7&vCenter=true&random=false&width=900&height=10&lines=---------------------------------------------------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
 
-----
-<hr style="border:1px dashed #000;"/>
 <p align="right">   <a href="https://count.getloli.com/">     <img src="https://count.getloli.com/get/@looechao?theme=asoul"  style="width:25%;">   </a> </p>
 
 
