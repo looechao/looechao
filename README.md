@@ -9,17 +9,17 @@ A life-long student.
 
 [![](https://img.shields.io/badge/Windows-10-4e9eee?style=flat-square&logo=windows&logoColor=blue)]()
 
-[![](https://img.shields.io/badge/OS-linux%20mint-green?style=flat-square&logo=linux-mint&logoColor=green)]()
+[![](https://img.shields.io/badge/OS-Linux%20mint-green?style=flat-square&logo=linux-mint&logoColor=green)]()
 
-[![](https://img.shields.io/badge/oneplus-8-red?style=flat-square&logo=oneplus&logoColor=red)]()
+[![](https://img.shields.io/badge/Oneplus-8-red?style=flat-square&logo=oneplus&logoColor=red)]()
 
-[![](https://img.shields.io/badge/Ggoogle-Pixel C-2E77BC?style=flat-square&logo=google&logoColor=ffffff)]()
+[![](https://img.shields.io/badge/Google-Pixel C-green?style=flat-square&logo=google&logoColor=green)]()
 
-[![](https://img.shields.io/badge/thinkpad-x230-2E77BC?style=flat-square&logo=thinkpad&logoColor=red)]()
+[![](https://img.shields.io/badge/Thinkpad-x230-2E77BC?style=flat-square&logo=thinkpad&logoColor=red)]()
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio-blue?style=flat-square&logo=visual-studio&logoColor=ffffff)]()
 
-[![](https://img.shields.io/badge/IDE-code%20blocks-grean?style=flat-square&logo=codeblocks&logoColor=ffffff)]()
+[![](https://img.shields.io/badge/IDE-Code%20blocks-grean?style=flat-square&logo=codeblocks&logoColor=ffffff)]()
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=1000&height=20&lines=Languages)](looechao.github.io)
 
