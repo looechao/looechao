@@ -1,27 +1,18 @@
-<h3 align="center" style="
-  background: linear-gradient(to right, blue , purple, yellow);
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  background-clip: text;
-  color: transparent;
-  text-align: center;">Hi, I'm <a href="https://looechao.github.io/">Lu Chao</a>!</h3>
-<p align="center" style="
-  background: linear-gradient(to right, blue , purple, yellow);
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  background-clip: text;
-  color: transparent;
-  text-align: center;"><b>A life-long student|Information and computing science senior at CSUFT</b></p>
-<p align="center"style="
-  background: linear-gradient(to right, blue , purple, yellow);
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  background-clip: text;
-  color: transparent;
-  text-align: center;"><b>Focus on : C++|Zen|Minimalism</b></p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=looechao&theme=radical"  style="width:55%;"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Spray+Paint&duration=3000&color=0761F7&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+looechao.;Follow+me+on+github.)](https://git.io/typing-svg)
+
+<p align="left"  style="width:64%;">
+    <img src="https://raw.githubusercontent.com/looechao/blogimg/main/readme.png"/>
 </p>
+
+
+<p align="center"> 
+<img src="https://ssr-contributions-svg.vercel.app/_/looechao?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_0&weeks=30&theme=green" style="width:45%;" />     <img src="https://github-readme-stats.vercel.app/api?username=anotherUser&theme=transparent" style="width:45%;" /> </p>
+
+<p align="center">
+    <img src="https://ssr-contributions-svg.vercel.app/_/looechao?chart=3dbar&gap=1&scale=2.5&light=10&flatten=0&animation=wave&animation_duration=5&animation_delay=0.03&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=19_3&weeks=30&theme=green"/>
+</p>
+
+
 
 
 
