@@ -4,25 +4,33 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=500&height=20&lines=Stats)](looechao.github.io)
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=looechao&theme=blue_navy" style="width:35%;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=looechao&layout=compact&theme=blue_navy"  style="width:28%;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=looechao&theme=blue_navy" style="width:45%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=looechao&layout=compact&theme=blue_navy"  style="width:35%;"/>
 </p>
+
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=500&height=20&lines=About+me)](looechao.github.io)
 
+
 - ### A life-long student.
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=500&height=20&lines=Languages)](looechao.github.io)
+
 
 - ### Chinese (Native)
 - ### English (Work & Daily)
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=500&height=20&lines=Recently+focus+on%3A)](looechao.github.io)
+
 
 - ### C++ | Zen | Minimalism
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=500&height=20&lines=Education)](looechao.github.io)
+
 
 - ### Information & computing science (情報計算科学科) | CSUFT (中南林業科技大學)
 
