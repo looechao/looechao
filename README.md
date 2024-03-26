@@ -9,13 +9,13 @@ A life-long student.
 
 [![](https://img.shields.io/badge/Windows-10-4e9eee?style=flat-square&logo=windows&logoColor=blue)]()
 
-[![](https://img.shields.io/badge/OS-Linux%20mint-green?style=flat-square&logo=linux-mint&logoColor=green)]()
+[![](https://img.shields.io/badge/OS-Linux%20Mint-green?style=flat-square&logo=linux-mint&logoColor=green)]()
 
 [![](https://img.shields.io/badge/Oneplus-8-red?style=flat-square&logo=oneplus&logoColor=red)]()
 
-[![](https://img.shields.io/badge/Google-Pixel C-green?style=flat-square&logo=google&logoColor=green)]()
+[![](https://img.shields.io/badge/Google-PixelC-green?style=flat-square&logo=google&logoColor=green)]()
 
-[![](https://img.shields.io/badge/Thinkpad-x230-2E77BC?style=flat-square&logo=thinkpad&logoColor=red)]()
+[![](https://img.shields.io/badge/Thinkpad-X230-2E77BC?style=flat-square&logo=thinkpad&logoColor=red)]()
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio-blue?style=flat-square&logo=visual-studio&logoColor=ffffff)]()
 
