@@ -7,8 +7,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=looechao&theme=graywhite" style="width:45%;"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=looechao&layout=compact&theme=graywhite"  style="width:35%;"/>
 </p>
-​       [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=500&height=20&lines=About+me)](https://looechao.github.io/)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=500&height=20&lines=About+me)](https://looechao.github.io/)
 - ### A life-long student.
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=500&height=20&lines=Languages)](https://looechao.github.io/)
 - ### Chinese (Native)
