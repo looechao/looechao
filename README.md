@@ -1,24 +1,27 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Spray+Paint&duration=3000&color=0761F7&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+looechao.;Follow+me+on+github.)](https://git.io/typing-svg)
 
-<p align="left"  style="width:64%;">
-    <img src="https://raw.githubusercontent.com/looechao/blogimg/main/readme.png"/>
-</p>
+--------
 
-
-<p align="center"> 
-<img src="https://ssr-contributions-svg.vercel.app/_/looechao?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_0&weeks=30&theme=green" style="width:45%;" />     <img src="https://github-readme-stats.vercel.app/api?username=anotherUser&theme=transparent" style="width:45%;" /> </p>
-
-<p align="center">
-    <img src="https://ssr-contributions-svg.vercel.app/_/looechao?chart=3dbar&gap=1&scale=2.5&light=10&flatten=0&animation=wave&animation_duration=5&animation_delay=0.03&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=19_3&weeks=30&theme=green"/>
-</p>
-
-
-
-
+| [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=500&height=20&lines=About+me)](https://git.io/typing-svg) |
+| :----------------------------------------------------------- |
+| [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=300&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=500&height=20&lines=-+A+life-long+student.)](https://git.io/typing-svg) |
+| [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=500&height=20&lines=Languages)](https://git.io/typing-svg) |
+| [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=300&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=500&height=20&lines=-+Chinese(Native))](https://git.io/typing-svg) |
+| [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=300&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=500&height=20&lines=-+English(Work+%26+Daily))](https://git.io/typing-svg) |
+| [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=500&height=20&lines=Recently+focus+on%3A)](https://git.io/typing-svg) |
+| [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=300&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=500&height=20&lines=-+C%2B%2B+%7C+Zen+%7C+Minimalism)](https://git.io/typing-svg) |
+| [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=500&height=20&lines=Education)](https://git.io/typing-svg) |
+| [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=300&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=500&height=20&lines=-+%E6%83%85%E5%A0%B1%E3%81%8A%E3%82%88%E3%81%B3%E8%A8%88%E7%AE%97%E7%A7%91%E5%AD%A6+%7C+%E4%B8%AD%E5%8D%97%E6%9E%97%E6%A5%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6)](https://git.io/typing-svg) |
+| [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=500&height=20&lines=Stats)](https://git.io/typing-svg) |
 
 <p align="center">
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@looechao?theme=asoul"></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=anotherUser&theme=transparent" style="width:45%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=looechao&layout=compact&theme=transparent"  style="width:35%;"/>
 </p>
+
+
+<p align="right">   <a href="https://count.getloli.com/">     <img src="https://count.getloli.com/get/@looechao?theme=asoul"  style="width:25%;">   </a> </p>
+
 
 
 <!--
@@ -47,5 +50,38 @@ Here are some ideas to get you started:
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=looechao&color=ff69b4"  style="width:15%;"/>
 </p>
+
+
+
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=500&height=20&lines=About+me)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=300&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=500&height=20&lines=-+A+life-long+student.)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=500&height=20&lines=Languages)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=300&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=500&height=20&lines=-+Chinese(Native))](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=300&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=500&height=20&lines=-+English(Work+%26+Daily))](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=500&height=20&lines=Recently+focus+on%3A)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=300&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=500&height=20&lines=-+C%2B%2B+%7C+Zen+%7C+Minimalism)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=500&height=20&lines=Education)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=300&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=500&height=20&lines=-+%E6%83%85%E5%A0%B1%E3%81%8A%E3%82%88%E3%81%B3%E8%A8%88%E7%AE%97%E7%A7%91%E5%AD%A6+%7C+%E4%B8%AD%E5%8D%97%E6%9E%97%E6%A5%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6)](https://git.io/typing-svg)
+
+
+
+
+
+
+
+
+
+
 
 -->
