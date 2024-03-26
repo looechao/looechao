@@ -1,16 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Spray+Paint&size=50&duration=1500&pause=1000&color=0761F7&vCenter=true&random=false&width=550&height=70&lines=HI%2C+I'm+looechao.;Follow+me+on+github.)](https://looechao.github.io/)
 
---------
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=1000&height=20&lines=Stats)](https://looechao.github.io/)
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=looechao&theme=blue-green" style="width:45%;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=looechao&layout=compact&theme=blue-green"  style="width:35%;"/>
-</p> 
-
+-------
 <img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=1000&height=20&lines=About+me">
 
 A life-long student.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=1000&height=20&lines=Platform+and+Devices)](https://looechao.github.io/)
+
+[![](https://img.shields.io/badge/Windows-10-4e9eee?style=flat-square&logo=windows&logoColor=blue)]()[![](https://img.shields.io/badge/OS-linux%20mint-green?style=flat-square&logo=linux-mint&logoColor=green)]()
+
+[![](https://img.shields.io/badge/oneplus-8-red?style=flat-square&logo=oneplus&logoColor=red)]()[![](https://img.shields.io/badge/Ggoogle-Pixel C-2E77BC?style=flat-square&logo=google&logoColor=ffffff)]()[![](https://img.shields.io/badge/thinkpad-x230-2E77BC?style=flat-square&logo=thinkpad&logoColor=red)]()
+
+[![](https://img.shields.io/badge/IDE-Visual%20Studio-blue?style=flat-square&logo=visual-studio&logoColor=ffffff)]()[![](https://img.shields.io/badge/IDE-code%20blocks-grean?style=flat-square&logo=codeblocks&logoColor=ffffff)]()
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=1000&height=20&lines=Languages)](looechao.github.io)
 
@@ -26,7 +27,7 @@ C++ | Zen | Minimalism
 Information & computing science (情報計算科学科) | CSUFT (中南林業科技大學)
 
 
------
+----
 <p align="right">   <a href="https://count.getloli.com/">     <img src="https://count.getloli.com/get/@looechao?theme=asoul"  style="width:25%;">   </a> </p>
 
 
