@@ -31,7 +31,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=1000&height=20&lines=Education)](looechao.github.io)
 
- [![](https://img.shields.io/badge/Information & computing science (情報計算科学科)- CSUFT (中南林業科技大學)-green?style=flat-squre)]()
+ [![](https://img.shields.io/badge/Information%20&%20Computing%20Science(情報計算科学科)-CSUFT(中南林業科技大學)-green?style=flat-squre)]()
 
 
 
