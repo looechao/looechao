@@ -1,14 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Spray+Paint&size=40&duration=1500&pause=1000&color=0761F7&vCenter=true&random=false&width=550&height=50&lines=HI%2C+I'm+looechao.;Follow+me+on+github.)](https://looechao.github.io/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1&pause=1000&color=0761F7&vCenter=true&random=false&width=900&height=10&lines=---------------------------------------------------------------------------------------------------------------------------------------------)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1&pause=1000&color=0761F7&vCenter=true&random=false&width=1000&height=10&lines=---------------------------------------------------------------------------------------------------------------------------------------------------)]()
 
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=1000&height=20&lines=About+me">
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=600&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=1000&height=20&lines=About+me)
 
  [![](https://img.shields.io/badge/A%20life%E2%80%93long%20student-grey?style=flat-square)]()
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=1000&height=20&lines=Platform+and+Devices)](https://looechao.github.io/)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=1000&height=20&lines=Platform+and+Devices)
 
 [![](https://img.shields.io/badge/Windows-10%20LTSC-4e9eee?style=flat-square&logo=windows&logoColor=blue)]() [![](https://img.shields.io/badge/OS-Linux%20Mint-green?style=flat-square&logo=linux-mint&logoColor=green)]()
 
@@ -20,22 +20,22 @@
 
 [![](https://img.shields.io/badge/Xbox-360-green?style=flat-square&logo=Xbox&logoColor=Green)]() [![](https://img.shields.io/badge/Wii-U-2E77BC?style=flat-square&logo=wiiu&logoColor=white)]() [![](https://img.shields.io/badge/Steam-grey?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/looe327)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=1000&height=20&lines=Languages)](looechao.github.io)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=1000&height=20&lines=Languages)
 
  [![](https://img.shields.io/badge/Chinese-Native-pink?style=flat-square)]()
  [![](https://img.shields.io/badge/English-Work&Daily-pink?style=flat-square)]()
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=1000&height=20&lines=Recently+focus+on%3A)](looechao.github.io)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=1000&height=20&lines=Recently+focus+on%3A)
 
  [![](https://img.shields.io/badge/C++-2E77BC?style=flat-square&logo=c%2B%2B&logoColor=white)]() [![](https://img.shields.io/badge/Zen-green?style=flat-square)]() [![](https://img.shields.io/badge/Minimalism-grey?style=flat-square)]()
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=1000&height=20&lines=Education)](looechao.github.io)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=1000&height=20&lines=Education)
 
- [![](https://img.shields.io/badge/Information%20&%20Computing%20Science(情報計算科学科)-CSUFT(中南林業科技大學)-green?style=flat-squre)]()
+ [![](https://img.shields.io/badge/情報計算科学科-CSUFT(中南林業科技大學)-green?style=flat-squre)]()
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1&pause=1000&color=0761F7&vCenter=true&random=false&width=900&height=10&lines=---------------------------------------------------------------------------------------------------------------------------------------------)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1&pause=1000&color=0761F7&vCenter=true&random=false&width=1000&height=10&lines=---------------------------------------------------------------------------------------------------------------------------------------------------------------------)]()
 
 <p align="right">   <a href="https://count.getloli.com/">     <img src="https://count.getloli.com/get/@looechao?theme=asoul"  style="width:25%;">   </a> </p>
 
