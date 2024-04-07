@@ -10,7 +10,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=1000&height=20&lines=Platform+and+Devices)
 
-[![](https://img.shields.io/badge/Windows-10%20LTSC-4e9eee?style=flat-square&logo=windows&logoColor=blue)](https://en.wikipedia.org/wiki/Windows_10) [![](https://img.shields.io/badge/OS-Linux%20Mint-green?style=flat-square&logo=linux-mint&logoColor=green)](https://linuxmint.com/)
+[![](https://img.shields.io/badge/Windows-10%20LTSC-4e9eee?style=flat-square&logo=windows&logoColor=blue)](https://en.wikipedia.org/wiki/Windows_10) [![](https://img.shields.io/badge/OS-Archlinux%20-grey?style=flat-square&logo=archlinux&logoColor=blue)](https://archlinux.org/)
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio-blue?style=flat-square&logo=visual-studio&logoColor=ffffff)](https://learn.microsoft.com/en-us/visualstudio/get-started/visual-studio-ide?view=vs-2019) [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=blue)](https://code.visualstudio.com/docs/introvideos/basics)  [![](https://img.shields.io/badge/IDE-Code%20blocks-grean?style=flat-square&logo=codeblocks&logoColor=ffffff)](https://www.codeblocks.org/)
 
