@@ -34,7 +34,6 @@
  [![](https://img.shields.io/badge/情報計算科学科-CSUFT(中南林業科技大學)-green?style=flat-squre)](https://english.csuft.edu.cn/)
 </br>
 </br>
-</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=looechao&layout=compact&exclude_repo=looechao.github.io,hugo-blog-root&theme=ocean_dark)
 </br>
 
