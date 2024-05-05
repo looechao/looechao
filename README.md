@@ -18,7 +18,7 @@
 
 [![](https://img.shields.io/badge/Oneplus-8-red?style=flat-square&logo=oneplus&logoColor=red)](https://www.oneplus.com/cn/8) [![](https://img.shields.io/badge/Google-Pixel%20C-green?style=flat-square&logo=google&logoColor=green)](https://blog.google/products/android/meet-pixel-c-our-take-on-tablet/) [![](https://img.shields.io/badge/iPad-8-green?style=flat-square&logo=apple&logoColor=white)](https://support.apple.com/en-us/118451) 
 
-[![](https://img.shields.io/badge/Xbox-360-green?style=flat-square&logo=Xbox&logoColor=Green)](https://en.wikipedia.org/wiki/Xbox_360) [![](https://img.shields.io/badge/Wii-U-2E77BC?style=flat-square&logo=wiiu&logoColor=white)](https://www.nintendo.co.uk/Wii-U/Wii-U-344102.html) [![](https://img.shields.io/badge/Steam-grey?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/looe327)
+[![](https://img.shields.io/badge/Xbox-360-green?style=flat-square&logo=Xbox&logoColor=Green)](https://en.wikipedia.org/wiki/Xbox_360) [![](https://img.shields.io/badge/Wii-U-2E77BC?style=flat-square&logo=wiiu&logoColor=white)](https://www.nintendo.co.uk/Wii-U/Wii-U-344102.html) [![](https://img.shields.io/badge/Steam-grey?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/looechao)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=1000&height=20&lines=Languages)
 
