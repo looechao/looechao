@@ -34,7 +34,7 @@
  [![](https://img.shields.io/badge/情報計算科学科-CSUFT(中南林業科技大學)-green?style=flat-squre)](https://english.csuft.edu.cn/)
 </br>
 </br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=looechao&layout=compact&exclude_repo=looechao.github.io,hugo-blog-root&theme=ocean_dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=looechao&layout=compact&exclude_repo=looechao.github.io,hugo-blog-root,AQI-ML-Python&theme=ocean_dark)
 </br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1&pause=1000&color=0761F7&vCenter=true&random=false&width=1000&height=10&lines=---------------------------------------------------------------------------------------------------------------------------------------------------------------------)]()
