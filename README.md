@@ -33,14 +33,17 @@
 
  [![](https://img.shields.io/badge/情報計算科学科-CSUFT(中南林業科技大學)-green?style=flat-squre)](https://english.csuft.edu.cn/)
 </br>
-</br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=looechao&layout=compact&exclude_repo=looechao.github.io,hugo-blog-root,AQI-ML-Python&theme=ocean_dark)
+
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=looechao&theme=radical" style="width:40%; display:block; margin-left:0; margin-right:auto;" />
+</p>
+
 </br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1&pause=1000&color=0761F7&vCenter=true&random=false&width=1000&height=10&lines=---------------------------------------------------------------------------------------------------------------------------------------------------------------------)]()
 
 <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=looechao&color=ff69b4"  style="width:15%;"/>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@looechao?theme=asoul"></a>
 </p>
 
 
@@ -61,9 +64,10 @@ Here are some ideas to get you started:
 
 
 
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=looechao&theme=radical"  style="width:55%;"/>
 </p>
+
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=looechao&layout=compact&theme=radical"  style="width:55%;"/>
@@ -81,7 +85,10 @@ Information & computing science (情報計算科学科) | CSUFT (中南林業科
 
 
 
+</br>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=looechao&layout=compact&exclude_repo=looechao.github.io,hugo-blog-root,AQI-ML-Python&theme=ocean_dark)
+</br>
 
 
 
