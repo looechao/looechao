@@ -16,7 +16,7 @@ jobs:
       WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
       UPDATE_OPTION: GIST_AND_MARKDOWN
-      MARKDOWN_FILE: https://github.com/looechao/looechao/blob/master/README.md
+      MARKDOWN_FILE: ./README.md
       GIST_ID: c86de2cde920111b22af9c943fd91a21
       GIST_BARSTYLE: SOLIDLT
       GIST_BARLENGTH: -1
