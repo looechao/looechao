@@ -23,14 +23,17 @@ jobs:
       GIST_TIMESTYLE: SHORT
 
     steps:
+      
       - name: Set up Go 1.x
         uses: actions/setup-go@v2
         with:
           go-version: ^1.14
         id: go
+      
       - name: Check out repo
         uses: actions/checkout@v2
       - uses: actions/setup-go@v2
+      
       - name: Clone and run waka-box
         run: |-
           git clone https://github.com/looechao/waka-box-go.git 
@@ -44,3 +47,10 @@ jobs:
           git diff
           git add README.md && git commit -m ":memo: update profile" || exit 0
           git pull && git push
+      
+      - name: Trigger steam-box workflow
+        run: |
+          curl -X POST https://api.github.com/repos/${{ github.repository }}/dispatches \
+          -H "Accept: application/vnd.github.v3+json" \
+          -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+          -d '{"event_type": "trigger_steam_box"}'
