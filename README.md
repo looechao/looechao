@@ -37,13 +37,13 @@
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=looechao&theme=radical" style="width:40%; display:block; margin-left:0; margin-right:auto;" />
 </p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=1000&height=20&lines=My Dev)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=1000&height=20&lines=Dev)
+```
+ <!-- waka-box start -->
+ <!-- waka-box end -->
+```
 
-<script src="https://gist.github.com/looechao/d8ffac0232c6398fbe410bf8738ab624.js">
-</script>
-
-</br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1&pause=1000&color=0761F7&vCenter=true&random=false&width=1000&height=10&lines=---------------------------------------------------------------------------------------------------------------------------------------------------------------------)]()
 
