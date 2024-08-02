@@ -41,6 +41,15 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=1000&height=20&lines=My+Development)
 
 <!-- waka-box start -->
+#### <a href="https://gist.github.com/c86de2cde920111b22af9c943fd91a21" target="_blank">📊 Weekly development breakdown</a>
+```text
+C++        🕓 3h25m ██████████████████░░░░░░░░░░ 64.4%
+C          🕓 57m   █████░░░░░░░░░░░░░░░░░░░░░░░ 18.1%
+Other      🕓 34m   ██▉░░░░░░░░░░░░░░░░░░░░░░░░░ 10.7%
+Markdown   🕓 18m   █▋░░░░░░░░░░░░░░░░░░░░░░░░░░  5.9%
+INI        🕓 1m    ▏░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.5%
+```
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
 
 <!-- steam-box start -->
