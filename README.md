@@ -40,29 +40,22 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=1000&height=20&lines=My+Development)
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 <!-- waka-box start -->
-#### <a href="https://gist.github.com/c86de2cde920111b22af9c943fd91a21" target="_blank">📊 Weekly development breakdown</a>
-```text
-C++        🕓 3h25m ██████████████████░░░░░░░░░░ 64.4%
-C          🕓 57m   █████░░░░░░░░░░░░░░░░░░░░░░░ 18.1%
-Other      🕓 34m   ██▉░░░░░░░░░░░░░░░░░░░░░░░░░ 10.7%
-Markdown   🕓 18m   █▋░░░░░░░░░░░░░░░░░░░░░░░░░░  5.9%
-INI        🕓 1m    ▏░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.5%
-```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
 
+</td>
+<td valign="top" width="50%">
+
 <!-- steam-box start -->
-#### <a href="https://gist.github.com/ad59ff5a561899435bbc24f423a40667" target="_blank">🎮 Steam playtime leaderboard</a>
-```text
-🔫 Counter-Strike 2                 🕘 1958 hrs 23 mins
-💻 Wallpaper Engine                 🕘 346 hrs 49 mins
-🚓 Grand Theft Auto V               🕘 65 hrs 44 mins
-🎮 Muse Dash                        🕘 17 hrs 3 mins
-🎮 Manyland                         🕘 16 hrs 10 mins
-```
-<!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
+
+</td>
+</tr>
+</table>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1&pause=1000&color=0761F7&vCenter=true&random=false&width=1000&height=10&lines=---------------------------------------------------------------------------------------------------------------------------------------------------------------------)]()
 
