@@ -44,11 +44,15 @@
 <table>
 <tr>
 <td valign="top" width="50%">
+```
 <!-- waka-box start -->
 <!-- waka-box end -->
+```
 </td>
 </tr>
 </table>
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1&pause=1000&color=0761F7&vCenter=true&random=false&width=1000&height=10&lines=---------------------------------------------------------------------------------------------------------------------------------------------------------------------)]()
 
 <p align="right">
