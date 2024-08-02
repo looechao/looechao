@@ -46,7 +46,7 @@ test
 <tr>
 <td valign="top" width="50%">
 <!-- waka-box start -->
-#### <a href="https://gist.github.com/d11b232dff1b2f0ecd3fb777c66b118c" target="_blank">📊 Weekly development breakdown</a>
+#### <a href="https://gist.github.com/c86de2cde920111b22af9c943fd91a21" target="_blank">📊 Weekly development breakdown</a>
 ```text
 C++        🕓 3h25m ██████████████████░░░░░░░░░░ 64.4%
 C          🕓 57m   █████░░░░░░░░░░░░░░░░░░░░░░░ 18.1%
