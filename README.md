@@ -53,6 +53,15 @@ INI        🕓 1m    ▏░░░░░░░░░░░░░░░░░░�
 <!-- waka-box end -->
 
 <!-- steam-box start -->
+#### <a href="https://gist.github.com/ad59ff5a561899435bbc24f423a40667" target="_blank">🎮 Steam playtime leaderboard</a>
+```text
+🔫 Counter-Strike 2                 🕘 1958 hrs 23 mins
+💻 Wallpaper Engine                 🕘 346 hrs 49 mins
+🚓 Grand Theft Auto V               🕘 65 hrs 44 mins
+🎮 Muse Dash                        🕘 17 hrs 3 mins
+🎮 Manyland                         🕘 16 hrs 10 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1&pause=1000&color=0761F7&vCenter=true&random=false&width=1000&height=10&lines=---------------------------------------------------------------------------------------------------------------------------------------------------------------------)]()
