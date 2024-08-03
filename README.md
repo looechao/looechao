@@ -60,6 +60,15 @@ Markdown   🕓 18m   █▍░░░░░░░░░░░░░░░░░�
 <td valign="top" width="30%">
 
 <!-- steam-box start -->
+#### <a href="https://gist.github.com/ad59ff5a561899435bbc24f423a40667" target="_blank">🎮 Steam playtime leaderboard</a>
+```text
+🔫 Counter-Strike 2                 🕘 1958 hrs 23 mins
+💻 Wallpaper Engine                 🕘 346 hrs 49 mins
+🚓 Grand Theft Auto V               🕘 65 hrs 44 mins
+🎮 Muse Dash                        🕘 17 hrs 3 mins
+🎮 Manyland                         🕘 16 hrs 10 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 
 </td>
