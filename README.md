@@ -42,7 +42,7 @@
 
 <table>
 <tr>
-<td valign="top" width="40%">
+<td valign="top" width="50%">
 <!-- waka-box start -->
 <!-- waka-box end -->
 
