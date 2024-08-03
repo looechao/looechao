@@ -42,12 +42,13 @@
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="30%">
+
 <!-- waka-box start -->
 <!-- waka-box end -->
 
 </td>
-<td valign="top" width="40%">
+<td valign="top" width="30%">
 
 <!-- steam-box start -->
 <!-- steam-box end -->
