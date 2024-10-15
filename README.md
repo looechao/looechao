@@ -65,7 +65,7 @@ INI        🕓 0s  ▏░░░░░░░░░░░░░░░░░░░
 🔫 Counter-Strike 2                 🕘 1958 hrs 23 mins
 💻 Wallpaper Engine                 🕘 346 hrs 49 mins
 🚓 Grand Theft Auto V               🕘 65 hrs 44 mins
-🎮 Muse Dash                        🕘 17 hrs 11 mins
+🎮 Muse Dash                        🕘 17 hrs 16 mins
 🎮 Manyland                         🕘 16 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
