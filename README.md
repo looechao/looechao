@@ -47,7 +47,10 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/c86de2cde920111b22af9c943fd91a21" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Still Gathering Statistics...
+Kotlin         🕓 2h13m ███████████████████████▏ 96.6%
+XML            🕓 4m    ▊░░░░░░░░░░░░░░░░░░░░░░░  3.2%
+TOML           🕓 0s    ░░░░░░░░░░░░░░░░░░░░░░░░  0.2%
+GitIgnore file 🕓 0s    ░░░░░░░░░░░░░░░░░░░░░░░░  0.0%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
