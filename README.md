@@ -10,7 +10,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=1000&height=20&lines=Platform+and+Devices)
 
-[![](https://img.shields.io/badge/macOS%20Sequoia-grey?style=flat-square&logo=Apple&logoColor=white)](https://www.apple.com/tw/macos/macos-sequoia/)[![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=blue)](https://en.wikipedia.org/wiki/Windows_11) [![](https://img.shields.io/badge/OS-Fedora%2040-grey?style=flat-square&logo=fedora&logoColor=blue)](https://fedoraproject.org/)
+[![](https://img.shields.io/badge/macOS%20Sequoia-grey?style=flat-square&logo=Apple&logoColor=white)](https://www.apple.com/tw/macos/macos-sequoia/) [![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=blue)](https://en.wikipedia.org/wiki/Windows_11) [![](https://img.shields.io/badge/OS-Fedora%2040-grey?style=flat-square&logo=fedora&logoColor=blue)](https://fedoraproject.org/)
 
 [![](https://img.shields.io/badge/IDE-Vim-grean?style=flat-square&logo=vim&logoColor=blue)](https://www.vim.org/) [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=vscode&logoColor=blue)](https://code.visualstudio.com/docs/introvideos/basics)  [![](https://img.shields.io/badge/IDE-Android%20Studio-blue?style=flat-square&logo=android-studio&logoColor=ffffff)](https://developer.android.com/studio) 
 
