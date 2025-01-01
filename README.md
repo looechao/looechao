@@ -58,7 +58,6 @@ Gradle               🕓 1h22m  █░░░░░░░░░░░░░░�
 <td valign="top" width="30%">
 
 <!-- steam-box start -->
-
 #### <a href="https://gist.github.com/ad59ff5a561899435bbc24f423a40667" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🔫 Counter-Strike 2                 🕘 1958 hrs 23 mins
