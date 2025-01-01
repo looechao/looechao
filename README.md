@@ -44,7 +44,6 @@
 <tr>
 <td valign="top" width="30%">
 <!-- waka-box start -->
-</br>
 
 #### <a href="https://gist.github.com/c86de2cde920111b22af9c943fd91a21" target="_blank">📊 Weekly development breakdown</a>
 ```text
