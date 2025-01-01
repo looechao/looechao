@@ -44,6 +44,7 @@
 <tr>
 <td valign="top" width="30%">
 <!-- waka-box start -->
+ 
 #### <a href="https://gist.github.com/c86de2cde920111b22af9c943fd91a21" target="_blank">📊 Weekly development breakdown</a>
 ```text
 Kotlin               🕓 11h55m █████████▍░░░░░░░ 55.7%
@@ -68,7 +69,6 @@ Gradle               🕓 1h22m  █░░░░░░░░░░░░░░�
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
-
 </td>
 </tr>
 </table>
