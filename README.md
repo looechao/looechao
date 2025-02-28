@@ -65,7 +65,7 @@ Gradle               🕓 2h1m  █░░░░░░░░░░░░░░░
 ```text
 🔫 Counter-Strike 2                 🕘 1958 hrs 23 mins
 💻 Wallpaper Engine                 🕘 346 hrs 49 mins
-🚓 Grand Theft Auto V               🕘 65 hrs 44 mins
+🚓 Grand Theft Auto V Legacy        🕘 65 hrs 44 mins
 🎮 Muse Dash                        🕘 17 hrs 33 mins
 🎮 Manyland                         🕘 16 hrs 10 mins
 ```
