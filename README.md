@@ -67,7 +67,7 @@ C++                  🕓 55m    ▋░░░░░░░░░░░░░░�
 💻 Wallpaper Engine                 🕘 346 hrs 49 mins
 🚓 Grand Theft Auto V Legacy        🕘 65 hrs 44 mins
 🎮 Muse Dash                        🕘 17 hrs 33 mins
-🎮 Fallout Shelter                  🕘 16 hrs 35 mins
+🎮 Fallout Shelter                  🕘 16 hrs 54 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
