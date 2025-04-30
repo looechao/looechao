@@ -66,7 +66,7 @@ JavaScript           🕓 1h14m  ▊░░░░░░░░░░░░░░�
 🔫 Counter-Strike 2                 🕘 1958 hrs 23 mins
 💻 Wallpaper Engine                 🕘 346 hrs 49 mins
 🚓 Grand Theft Auto V Legacy        🕘 65 hrs 44 mins
-🎮 Fallout Shelter                  🕘 21 hrs 44 mins
+🎮 Fallout Shelter                  🕘 22 hrs 37 mins
 🎮 Muse Dash                        🕘 17 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
