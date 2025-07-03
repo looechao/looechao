@@ -63,7 +63,7 @@ Gradle          🕓 27m    ▎░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ad59ff5a561899435bbc24f423a40667" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Counter-Strike 2                 🕘 1974 hrs 20 mins
+🔫 Counter-Strike 2                 🕘 1975 hrs 33 mins
 💻 Wallpaper Engine                 🕘 346 hrs 49 mins
 🚓 Grand Theft Auto V Legacy        🕘 65 hrs 44 mins
 🎮 Fallout Shelter                  🕘 26 hrs 18 mins
