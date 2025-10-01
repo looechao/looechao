@@ -46,11 +46,11 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/c86de2cde920111b22af9c943fd91a21" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Kotlin                      🕓 14h45m ██████▉░░░ 69.8%
-Dart                        🕓 3h52m  █▊░░░░░░░░ 18.4%
-Java                        🕓 59m    ▍░░░░░░░░░  4.7%
-Markdown                    🕓 39m    ▎░░░░░░░░░  3.1%
-Application Resource Bundle 🕓 14m    ░░░░░░░░░░  1.1%
+Kotlin                      🕓 9h29m ██████▊░░░░ 61.4%
+Dart                        🕓 3h50m ██▋░░░░░░░░ 24.9%
+Java                        🕓 45m   ▌░░░░░░░░░░  4.9%
+Markdown                    🕓 39m   ▍░░░░░░░░░░  4.3%
+Application Resource Bundle 🕓 14m   ▏░░░░░░░░░░  1.5%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
