@@ -64,7 +64,7 @@ Gradle                      🕓 11m   ▏░░░░░░░░░░  2.1%
 🔫 Counter-Strike 2                 🕘 2077 hrs 38 mins
 💻 Wallpaper Engine                 🕘 346 hrs 49 mins
 🚓 Grand Theft Auto V Legacy        🕘 65 hrs 44 mins
-🎮 Persona 5 Royal                  🕘 51 hrs 5 mins
+🎮 Persona 5 Royal                  🕘 53 hrs 33 mins
 🎮 Street Fighter™ 6                🕘 28 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
