@@ -64,7 +64,7 @@ CSS                         🕓 9m    ░░░░░░░░░░░  1.1%
 🔫 Counter-Strike 2                 🕘 2077 hrs 38 mins
 💻 Wallpaper Engine                 🕘 346 hrs 49 mins
 🚓 Grand Theft Auto V Legacy        🕘 65 hrs 44 mins
-🎮 Persona 5 Royal                  🕘 57 hrs 43 mins
+🎮 Persona 5 Royal                  🕘 59 hrs 27 mins
 🎮 Street Fighter™ 6                🕘 28 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
