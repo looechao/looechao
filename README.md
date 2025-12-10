@@ -8,11 +8,11 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&duration=0.1&pause=1000&color=0761F7&vCenter=true&random=false&width=1000&height=20&lines=Platform+and+Devices)
 
-![](https://img.shields.io/badge/macOS%20Sequoia-grey?style=flat-square&logo=Apple&logoColor=white) ![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=blue)
+![](https://img.shields.io/badge/macOS%20Sequoia-grey?style=flat-square&logo=Apple&logoColor=white) ![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=blue) ![](https://img.shields.io/badge/Omarchy-B0D07C?style=flat-square)
 
-![](https://img.shields.io/badge/Vim-grean?style=flat-square&logo=vim&logoColor=blue) ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=vscode&logoColor=blue)  ![](https://img.shields.io/badge/IDE-Android%20Studio-blue?style=flat-square&logo=android-studio&logoColor=ffffff) ![](https://img.shields.io/badge/-Claude-orange?style=flat-square&logo=CLAUDE&logoColor=ffffff) 
+![](https://img.shields.io/badge/Vim-grean?style=flat-square&logo=vim&logoColor=blue) ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=&logoColor=blue)  ![](https://img.shields.io/badge/IDE-Android%20Studio-5989ED?style=flat-square&logo=android-studio&logoColor=ffffff) ![](https://img.shields.io/badge/-Claude%20Code-orange?style=flat-square&logo=CLAUDE&logoColor=ffffff) 
 
-![](https://img.shields.io/badge/Thinkpad-X230-2E77BC?style=flat-square&logo=thinkpad&logoColor=red) ![](https://img.shields.io/badge/Mac-mini-grey?style=flat-square&logo=apple&logoColor=white) ![](https://img.shields.io/badge/Oneplus-8-red?style=flat-square&logo=oneplus&logoColor=red) 
+![](https://img.shields.io/badge/Mac-mini-grey?style=flat-square&logo=apple&logoColor=white) ![](https://img.shields.io/badge/Oneplus-8-red?style=flat-square&logo=oneplus&logoColor=red) ![](https://img.shields.io/badge/Thinkpad-X230-2E77BC?style=flat-square&logo=thinkpad&logoColor=red) 
 
 ![](https://img.shields.io/badge/Steam-grey?style=flat-square&logo=steam&logoColor=white) ![](https://img.shields.io/badge/Xbox-360-green?style=flat-square&logo=Xbox&logoColor=Green) ![](https://img.shields.io/badge/Wii-U-2E77BC?style=flat-square&logo=wiiu&logoColor=white) 
 
