@@ -37,8 +37,6 @@
 <tr>
 <td valign="top" width="30%">
 
-#### <a href="https://gist.github.com/c86de2cde920111b22af9c943fd91a21" target="_blank">📊 Weekly development breakdown</a>
-
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/c86de2cde920111b22af9c943fd91a21" target="_blank">📊 Weekly development breakdown</a>
 ```text
@@ -52,8 +50,6 @@ Dart            🕓 7m    ▋░░░░░░░░░░░░░░░░�
 <!-- waka-box end -->
 </td>
 <td valign="top" width="30%">
-
-#### <a href="https://gist.github.com/ad59ff5a561899435bbc24f423a40667" target="_blank">🎮 Steam playtime leaderboard</a>
 
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ad59ff5a561899435bbc24f423a40667" target="_blank">🎮 Steam playtime leaderboard</a>
