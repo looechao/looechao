@@ -39,6 +39,7 @@
 #### <a href="https://gist.github.com/c86de2cde920111b22af9c943fd91a21" target="_blank">📊 Weekly development breakdown</a>
 
 <!-- waka-box start -->
+#### <a href="https://gist.github.com/c86de2cde920111b22af9c943fd91a21" target="_blank">📊 Weekly development breakdown</a>
 ```text
 Kotlin          🕓 1h33m ████████░░░░░░░░░░░░░░░ 35.2%
 Groovy          🕓 1h13m ██████▎░░░░░░░░░░░░░░░░ 27.6%
