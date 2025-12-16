@@ -18,6 +18,7 @@ _Weekly coding stats & games._
 <td valign="top" width="30%">
 
 <!-- waka-box start -->
+#### <a href="https://gist.github.com/c86de2cde920111b22af9c943fd91a21" target="_blank">📊 Weekly development breakdown</a>
 ```text
 Kotlin               🕓 6h25m ███████▉░░░░░░░░░░ 44.4%
 Gradle               🕓 1h47m ██▏░░░░░░░░░░░░░░░ 12.3%
