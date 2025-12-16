@@ -32,6 +32,7 @@ Dart                 🕓 55m   █▏░░░░░░░░░░░░░░
 <td valign="top" width="30%">
 
 <!-- steam-box start -->
+#### <a href="https://gist.github.com/ad59ff5a561899435bbc24f423a40667" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🔫 Counter-Strike 2                 🕘 2103 hrs 22 mins
 💻 Wallpaper Engine                 🕘 346 hrs 49 mins
