@@ -20,7 +20,11 @@ _Weekly coding stats & games._
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/c86de2cde920111b22af9c943fd91a21" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Still Gathering Statistics...
+Kotlin               🕓 6h50m ████████████▍░░░░░ 69.1%
+Groovy               🕓 1h22m ██▍░░░░░░░░░░░░░░░ 13.8%
+Gradle               🕓 41m   █▎░░░░░░░░░░░░░░░░  7.0%
+Java                 🕓 23m   ▋░░░░░░░░░░░░░░░░░  4.0%
+HTML                 🕓 13m   ▍░░░░░░░░░░░░░░░░░  2.3%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
