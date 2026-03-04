@@ -20,11 +20,11 @@ _Weekly coding stats & games._
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/c86de2cde920111b22af9c943fd91a21" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Kotlin 🕓 50m █████████████████▊░░░░░░░░░░░░░░░░ 52.5%
-Groovy 🕓 12m ████▌░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 13.4%
-JSON   🕓 12m ████▎░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 12.8%
-jsonc  🕓 11m ███▉░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 11.7%
-Dart   🕓 9m  ███▎░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  9.6%
+Kotlin   🕓 50m ██████████████░░░░░░░░░░░░░░░░░░ 44.1%
+Groovy   🕓 12m ███▌░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 11.2%
+Markdown 🕓 12m ███▌░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 11.2%
+JSON     🕓 12m ███▍░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10.8%
+jsonc    🕓 11m ███▏░░░░░░░░░░░░░░░░░░░░░░░░░░░░  9.8%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
