@@ -20,11 +20,11 @@ _Weekly coding stats & games._
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/c86de2cde920111b22af9c943fd91a21" target="_blank">📊 Weekly development breakdown</a>
 ```text
-TypeScript   🕓 1h26m ██████▌░░░░░░░░░░░░░░░░░░░ 25.5%
-Kotlin       🕓 52m   ████░░░░░░░░░░░░░░░░░░░░░░ 15.5%
-Markdown     🕓 47m   ███▌░░░░░░░░░░░░░░░░░░░░░░ 13.9%
-YAML         🕓 41m   ███▏░░░░░░░░░░░░░░░░░░░░░░ 12.3%
-Groovy       🕓 36m   ██▊░░░░░░░░░░░░░░░░░░░░░░░ 10.7%
+TypeScript   🕓 1h26m ██████▌░░░░░░░░░░░░░░░░░░░ 25.2%
+Kotlin       🕓 52m   ███▉░░░░░░░░░░░░░░░░░░░░░░ 15.3%
+Markdown     🕓 47m   ███▌░░░░░░░░░░░░░░░░░░░░░░ 13.7%
+YAML         🕓 41m   ███▏░░░░░░░░░░░░░░░░░░░░░░ 12.2%
+shell script 🕓 39m   ███░░░░░░░░░░░░░░░░░░░░░░░ 11.7%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
