@@ -15,6 +15,7 @@ jobs:
       - uses: looechao/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SKIP_COMMIT: "true"
 
       - uses: looechao/steam-readme@master
         with:
