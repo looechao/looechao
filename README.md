@@ -13,6 +13,10 @@ _What I've been jamming on lately._
 
 _Weekly coding stats & games._
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -25,6 +29,9 @@ shell script  24 mins
 
 <!--END_SECTION:waka-->
 
+</td>
+<td valign="top" width="50%">
+
 <!-- steam-box start -->
 ```text
 Counter-Strike 2           2113 hrs 42 mins
@@ -34,6 +41,10 @@ Grand Theft Auto V Legacy  65 hrs 44 mins
 Street Fighter™ 6          28 hrs 42 mins
 ```
 <!-- steam-box end -->
+
+</td>
+</tr>
+</table>
 
 <p align="right">
   <i>
