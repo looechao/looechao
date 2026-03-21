@@ -20,11 +20,11 @@ _Weekly coding stats & games._
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/c86de2cde920111b22af9c943fd91a21" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Vue.js       🕓 1h35m ██████████████▌░░░░░░░░░░░ 56.1%
-Markdown     🕓 39m   ██████░░░░░░░░░░░░░░░░░░░░ 23.1%
-shell script 🕓 15m   ██▍░░░░░░░░░░░░░░░░░░░░░░░  9.3%
-Gradle       🕓 14m   ██▏░░░░░░░░░░░░░░░░░░░░░░░  8.3%
-CSS          🕓 3m    ▌░░░░░░░░░░░░░░░░░░░░░░░░░  2.0%
+Vue.js       🕓 3h10m █████████████▋░░░░░░░░░░░░ 52.4%
+Markdown     🕓 58m   ████▏░░░░░░░░░░░░░░░░░░░░░ 16.0%
+TypeScript   🕓 45m   ███▏░░░░░░░░░░░░░░░░░░░░░░ 12.4%
+Kotlin       🕓 27m   █▉░░░░░░░░░░░░░░░░░░░░░░░░  7.5%
+shell script 🕓 24m   █▋░░░░░░░░░░░░░░░░░░░░░░░░  6.6%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
