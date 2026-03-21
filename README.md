@@ -13,23 +13,17 @@ _What I've been jamming on lately._
 
 _Weekly coding stats & games._
 
-<table>
-<tr>
-<td valign="top" width="30%">
-
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js         3 hrs 10 mins         █████████████░░░░░░░░░░░░   52.43 %
-Markdown       58 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
-TypeScript     45 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
-Kotlin         27 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-shell script   24 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+Vue.js         3 hrs 10 mins
+Markdown       58 mins
+TypeScript     45 mins
+Kotlin         27 mins
+shell script   24 mins
 ```
 
 <!--END_SECTION:waka-->
-</td>
-<td valign="top" width="30%">
 
 <!-- steam-box start -->
 ```text
@@ -40,9 +34,6 @@ Grand Theft Auto V Legacy  65 hrs 44 mins
 Street Fighter™ 6          28 hrs 42 mins
 ```
 <!-- steam-box end -->
-</td>
-</tr>
-</table>
 
 <p align="right">
   <i>
