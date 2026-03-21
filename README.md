@@ -34,11 +34,11 @@ shell script                     24 mins
 
 <!-- steam-box start -->
 ```text
-Counter-Strike 2           2113 hrs 42 mins
-Wallpaper Engine           346 hrs 49 mins
-Persona 5 Royal            66 hrs 22 mins
-Grand Theft Auto V Legacy  65 hrs 44 mins
-Street Fighter™ 6          28 hrs 42 mins
+Counter-Strike 2         2113 hrs 42 mins
+Wallpaper Engine         346 hrs 49 mins
+Persona 5 Royal           66 hrs 22 mins
+Grand Theft Auto V Legacy 65 hrs 44 mins
+Street Fighter™ 6         28 hrs 42 mins
 ```
 <!-- steam-box end -->
 
