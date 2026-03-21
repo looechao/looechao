@@ -20,11 +20,11 @@ _Weekly coding stats & games._
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js        3 hrs 10 mins
-Markdown      58 mins
-TypeScript    45 mins
-Kotlin        27 mins
-shell script  24 mins
+Vue.js        3 hrs 10 mins             
+Markdown      58 mins                   
+TypeScript    45 mins                   
+Kotlin        27 mins                   
+shell script  24 mins                   
 ```
 
 <!--END_SECTION:waka-->
