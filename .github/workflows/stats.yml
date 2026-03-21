@@ -6,25 +6,25 @@ on:
   workflow_dispatch:
 
 jobs:
-  waka:
-    name: Update WakaTime stats
+  update:
+    name: Update stats
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: looechao/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
-  steam:
-    name: Update Steam stats
-    needs: waka
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          ref: master
       - uses: looechao/steam-readme@master
         with:
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
           STEAM_ID: ${{ secrets.STEAM_ID }}
-          COMMIT_MESSAGE: ":memo: update profile"
+          SKIP_COMMIT: "true"
+
+      - name: Commit and push
+        run: |
+          git config user.email "bot@github.com"
+          git config user.name "Stats-Bot"
+          git add README.md
+          git diff --cached --quiet || (git commit -m ":memo: update profile" && git push)
