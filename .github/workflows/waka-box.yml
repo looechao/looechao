@@ -15,11 +15,9 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Update WakaTime stats
-        uses: athul/waka-readme@master
+        uses: looechao/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_PERCENT: "False"
-          SHOW_BAR_CHART: "False"
 
       - name: Trigger steam-box workflow
         run: |
