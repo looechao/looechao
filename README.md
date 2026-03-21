@@ -17,8 +17,8 @@ _Weekly coding stats & games._
 <tr>
 <td valign="top" width="30%">
 
-<!-- waka-box start -->
-#### <a href="https://gist.github.com/c86de2cde920111b22af9c943fd91a21" target="_blank">📊 Weekly development breakdown</a>
+<!--START_SECTION:waka-->
+
 ```text
 Vue.js       🕓 3h10m █████████████▋░░░░░░░░░░░░ 52.4%
 Markdown     🕓 58m   ████▏░░░░░░░░░░░░░░░░░░░░░ 16.0%
@@ -26,8 +26,8 @@ TypeScript   🕓 45m   ███▏░░░░░░░░░░░░░░�
 Kotlin       🕓 27m   █▉░░░░░░░░░░░░░░░░░░░░░░░░  7.5%
 shell script 🕓 24m   █▋░░░░░░░░░░░░░░░░░░░░░░░░  6.6%
 ```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
-<!-- waka-box end -->
+
+<!--END_SECTION:waka-->
 </td>
 <td valign="top" width="30%">
 
