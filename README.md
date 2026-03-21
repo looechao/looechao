@@ -11,7 +11,7 @@ _What I've been jamming on lately._
 
 #### Stats
 
-_Weekly coding stats & games._
+_Coding and gaming stats._
 
 <table>
 <tr>
