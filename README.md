@@ -21,10 +21,10 @@ _Coding and gaming stats._
 
 ```txt
 Vue.js                     3 hrs 10 mins       
-Markdown                         58 mins       
+Markdown                     1 hr 6 mins       
 TypeScript                       45 mins       
 Kotlin                           27 mins       
-shell script                     24 mins       
+Python                           26 mins       
 ```
 
 <!--END_SECTION:waka-->
@@ -34,7 +34,7 @@ shell script                     24 mins
 
 <!-- steam-box start -->
 ```text
-Counter-Strike 2         2113 hrs 42 mins       
+Counter-Strike 2         2114 hrs 15 mins       
 Wallpaper Engine          346 hrs 49 mins       
 Persona 5 Royal            66 hrs 22 mins       
 Grand Theft Auto V Legacy  65 hrs 44 mins       
