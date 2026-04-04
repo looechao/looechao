@@ -20,11 +20,11 @@ _Coding and gaming stats._
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js                      1 hr 23 mins       
-Markdown                    1 hr 15 mins       
-Other                            35 mins       
-Kotlin                           17 mins       
-shell script                     17 mins       
+Vue.js                     2 hrs 43 mins       
+Other                      2 hrs 27 mins       
+Markdown                    2 hrs 9 mins       
+TypeScript                  1 hr 12 mins       
+Go                               36 mins       
 ```
 
 <!--END_SECTION:waka-->
