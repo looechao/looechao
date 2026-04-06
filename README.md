@@ -22,7 +22,7 @@ _Coding and gaming stats._
 ```txt
 Vue.js                     2 hrs 43 mins       
 Other                      2 hrs 27 mins       
-Markdown                    2 hrs 9 mins       
+Markdown                    2 hrs 2 mins       
 TypeScript                  1 hr 12 mins       
 Go                               36 mins       
 ```
