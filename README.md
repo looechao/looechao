@@ -20,11 +20,11 @@ _Coding and gaming stats._
 <!--START_SECTION:waka-->
 
 ```txt
-Other                        3 hrs 1 min       
-Vue.js                      1 hr 13 mins       
-TypeScript                   1 hr 2 mins       
-Vim Script                       37 mins       
-Groovy                           28 mins       
+Other                      4 hrs 45 mins       
+Markdown                    2 hrs 7 mins       
+JSON                             44 mins       
+YAML                             39 mins       
+TypeScript                       39 mins       
 ```
 
 <!--END_SECTION:waka-->
@@ -36,7 +36,7 @@ Groovy                           28 mins
 ```text
 Counter-Strike 2           2114 hrs 48 mins       
 Wallpaper Engine            346 hrs 49 mins       
-Grand Theft Auto V Enhanced 107 hrs 26 mins       
+Grand Theft Auto V Enhanced 107 hrs 38 mins       
 Persona 5 Royal              66 hrs 22 mins       
 Grand Theft Auto V Legacy    65 hrs 44 mins       
 ```
