@@ -34,7 +34,7 @@ YAML                        1 hr 32 mins
 
 <!-- steam-box start -->
 ```text
-Counter-Strike 2           2117 hrs 32 mins       
+Counter-Strike 2           2120 hrs 40 mins       
 Wallpaper Engine            346 hrs 49 mins       
 Grand Theft Auto V Enhanced 107 hrs 38 mins       
 Persona 5 Royal              66 hrs 22 mins       
