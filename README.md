@@ -21,10 +21,10 @@ _Coding and gaming stats._
 
 ```txt
 Kotlin                     5 hrs 41 mins       
-TypeScript                 4 hrs 41 mins       
+TypeScript                 4 hrs 57 mins       
 Vue                         4 hrs 2 mins       
-Markdown                    1 hr 26 mins       
-Swift                               1 hr       
+Markdown                   2 hrs 41 mins       
+Swift                       1 hr 10 mins       
 ```
 
 <!--END_SECTION:waka-->
@@ -34,7 +34,7 @@ Swift                               1 hr
 
 <!-- steam-box start -->
 ```text
-Counter-Strike 2           2122 hrs 33 mins       
+Counter-Strike 2           2123 hrs 35 mins       
 Wallpaper Engine            346 hrs 49 mins       
 Grand Theft Auto V Enhanced 107 hrs 38 mins       
 Persona 5 Royal              66 hrs 22 mins       
