@@ -20,10 +20,10 @@ _Coding and gaming stats._
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                  16 hrs 28 mins       
-TypeScript                 6 hrs 26 mins       
-Swift                      3 hrs 48 mins       
-YAML                       3 hrs 21 mins       
+Markdown                  16 hrs 26 mins       
+TypeScript                  6 hrs 2 mins       
+Swift                      3 hrs 43 mins       
+YAML                       2 hrs 55 mins       
 Vue                        2 hrs 15 mins       
 ```
 
