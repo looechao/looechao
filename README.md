@@ -20,11 +20,11 @@ _Coding and gaming stats._
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                    6 hrs 4 mins       
+Markdown                     5 hrs 1 min       
 Vue                        4 hrs 20 mins       
-Other                       3 hrs 2 mins       
-Swift                      2 hrs 17 mins       
-Kotlin                     2 hrs 10 mins       
+Other                       3 hrs 4 mins       
+Swift                      2 hrs 49 mins       
+YAML                       2 hrs 25 mins       
 ```
 
 <!--END_SECTION:waka-->
