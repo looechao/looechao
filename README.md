@@ -21,9 +21,9 @@ _Coding and gaming stats._
 
 ```txt
 Kotlin                     6 hrs 57 mins       
-Markdown                   4 hrs 39 mins       
+Markdown                   4 hrs 56 mins       
 Groovy                     3 hrs 22 mins       
-YAML                       2 hrs 23 mins       
+YAML                       2 hrs 46 mins       
 Emacs Lisp                         2 hrs       
 ```
 
@@ -34,7 +34,7 @@ Emacs Lisp                         2 hrs
 
 <!-- steam-box start -->
 ```text
-Counter-Strike 2           2138 hrs 42 mins       
+Counter-Strike 2           2140 hrs 32 mins       
 Wallpaper Engine            346 hrs 49 mins       
 Grand Theft Auto V Enhanced 107 hrs 38 mins       
 Persona 5 Royal              66 hrs 22 mins       
