@@ -20,11 +20,11 @@ _Coding and gaming stats._
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                   8 hrs 59 mins       
-Kotlin                     8 hrs 10 mins       
-YAML                       4 hrs 50 mins       
-JSON                       2 hrs 28 mins       
-Groovy                      1 hr 53 mins       
+Markdown                  12 hrs 49 mins       
+YAML                       4 hrs 58 mins       
+Kotlin                     3 hrs 48 mins       
+Groovy                      2 hrs 6 mins       
+JSON                        2 hrs 2 mins       
 ```
 
 <!--END_SECTION:waka-->
