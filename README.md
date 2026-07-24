@@ -20,9 +20,9 @@ _Coding and gaming stats._
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                   9 hrs 18 mins       
-Kotlin                     3 hrs 34 mins       
-Dart                        1 hr 34 mins       
+Markdown                  10 hrs 30 mins       
+Kotlin                     3 hrs 57 mins       
+Dart                        2 hrs 6 mins       
 Java Properties             1 hr 26 mins       
 Bash                        1 hr 22 mins       
 ```
