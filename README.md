@@ -20,11 +20,11 @@ _Coding and gaming stats._
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                   6 hrs 16 mins       
-JSON                       3 hrs 18 mins       
-Kotlin                     2 hrs 51 mins       
-Dart                       2 hrs 44 mins       
+Markdown                   4 hrs 45 mins       
+JSON                       3 hrs 10 mins       
+Dart                       2 hrs 49 mins       
 Swift                       1 hr 21 mins       
+Java Properties              1 hr 8 mins       
 ```
 
 <!--END_SECTION:waka-->
