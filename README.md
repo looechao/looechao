@@ -20,11 +20,11 @@ _Coding and gaming stats._
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                   6 hrs 40 mins       
-YAML                        4 hrs 9 mins       
-Dart                       2 hrs 15 mins       
-JavaScript                  1 hr 15 mins       
-SQL                              53 mins       
+Markdown                    5 hrs 4 mins       
+YAML                       2 hrs 25 mins       
+Dart                        1 hr 52 mins       
+Python                       1 hr 3 mins       
+JavaScript                       56 mins       
 ```
 
 <!--END_SECTION:waka-->
@@ -34,7 +34,7 @@ SQL                              53 mins
 
 <!-- steam-box start -->
 ```text
-Counter-Strike 2           2193 hrs 08 mins       
+Counter-Strike 2           2194 hrs 12 mins       
 Wallpaper Engine            346 hrs 49 mins       
 Grand Theft Auto V Enhanced 107 hrs 38 mins       
 Persona 5 Royal              66 hrs 22 mins       
