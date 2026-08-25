@@ -20,11 +20,11 @@ _Coding and gaming stats._
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                   9 hrs 13 mins       
-Dart                       4 hrs 54 mins       
-JavaScript                  1 hr 41 mins       
-Other                       1 hr 14 mins       
+Markdown                   9 hrs 45 mins       
+Dart                       5 hrs 42 mins       
+JavaScript                  1 hr 30 mins       
 HTML                             51 mins       
+Other                            41 mins       
 ```
 
 <!--END_SECTION:waka-->
