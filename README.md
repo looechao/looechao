@@ -20,11 +20,7 @@ _Coding and gaming stats._
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                     2 hrs 1 min       
-Dart                             52 mins       
-MDX                              21 mins       
-C++                              15 mins       
-TypeScript                        2 mins       
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
