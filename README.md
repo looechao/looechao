@@ -34,7 +34,7 @@ Python                      1 hr 28 mins
 
 <!-- steam-box start -->
 ```text
-Counter-Strike 2           2216 hrs 47 mins       
+Counter-Strike 2           2220 hrs 19 mins       
 Wallpaper Engine            346 hrs 49 mins       
 Grand Theft Auto V Enhanced 107 hrs 38 mins       
 Persona 5 Royal              66 hrs 22 mins       
