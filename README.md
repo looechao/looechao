@@ -20,10 +20,10 @@ _Coding and gaming stats._
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                  17 hrs 43 mins       
-TypeScript                 5 hrs 55 mins       
-Dart                       3 hrs 46 mins       
-Other                      3 hrs 19 mins       
+Markdown                  12 hrs 41 mins       
+TypeScript                 4 hrs 58 mins       
+Other                      3 hrs 11 mins       
+Dart                       2 hrs 22 mins       
 Nunjucks                    1 hr 38 mins       
 ```
 
@@ -34,7 +34,7 @@ Nunjucks                    1 hr 38 mins
 
 <!-- steam-box start -->
 ```text
-Counter-Strike 2           2236 hrs 05 mins       
+Counter-Strike 2           2239 hrs 24 mins       
 Wallpaper Engine            346 hrs 49 mins       
 Grand Theft Auto V Enhanced 107 hrs 38 mins       
 Persona 5 Royal              66 hrs 22 mins       
