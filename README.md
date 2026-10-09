@@ -20,7 +20,11 @@ _Coding and gaming stats._
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown                   3 hrs 57 mins       
+Python                     2 hrs 35 mins       
+Other                            19 mins       
+Dart                              5 mins       
+JavaScript                        4 mins       
 ```
 
 <!--END_SECTION:waka-->
