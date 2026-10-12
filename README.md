@@ -34,7 +34,7 @@ Kotlin                           27 mins
 
 <!-- steam-box start -->
 ```text
-Counter-Strike 2           2247 hrs 44 mins       
+Counter-Strike 2           2249 hrs 51 mins       
 Wallpaper Engine            346 hrs 49 mins       
 Grand Theft Auto V Enhanced 107 hrs 38 mins       
 Persona 5 Royal              66 hrs 22 mins       
