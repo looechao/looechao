@@ -21,7 +21,7 @@ _Coding and gaming stats._
 
 ```txt
 Other                      6 hrs 15 mins       
-Markdown                   5 hrs 27 mins       
+Markdown                   5 hrs 26 mins       
 Python                      1 hr 13 mins       
 Kotlin                      1 hr 12 mins       
 TypeScript                       45 mins       
@@ -34,7 +34,7 @@ TypeScript                       45 mins
 
 <!-- steam-box start -->
 ```text
-Counter-Strike 2           2262 hrs 56 mins       
+Counter-Strike 2           2264 hrs 14 mins       
 Wallpaper Engine            346 hrs 49 mins       
 Grand Theft Auto V Enhanced 108 hrs 06 mins       
 Persona 5 Royal              69 hrs 04 mins       
