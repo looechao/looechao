@@ -20,8 +20,8 @@ _Coding and gaming stats._
 <!--START_SECTION:waka-->
 
 ```txt
-Other                      4 hrs 11 mins       
-Markdown                   2 hrs 29 mins       
+Other                       4 hrs 6 mins       
+Markdown                   2 hrs 28 mins       
 HTML                             29 mins       
 Image (svg)                      18 mins       
 MDX                              13 mins       
