@@ -20,9 +20,7 @@ _Coding and gaming stats._
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                    1 hr 50 mins       
-Other                       1 hr 13 mins       
-JSON                              7 mins       
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
