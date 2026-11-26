@@ -20,7 +20,11 @@ _Coding and gaming stats._
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other                      14 hrs 2 mins       
+Groovy                     5 hrs 21 mins       
+Markdown                     5 hrs 1 min       
+Dart                        4 hrs 8 mins       
+Python                      1 hr 34 mins       
 ```
 
 <!--END_SECTION:waka-->
@@ -30,7 +34,7 @@ No activity tracked
 
 <!-- steam-box start -->
 ```text
-Counter-Strike 2           2272 hrs 04 mins       
+Counter-Strike 2           2272 hrs 26 mins       
 Wallpaper Engine            346 hrs 49 mins       
 Grand Theft Auto V Enhanced 108 hrs 06 mins       
 Persona 5 Royal              69 hrs 04 mins       
