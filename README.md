@@ -20,11 +20,11 @@ _Coding and gaming stats._
 <!--START_SECTION:waka-->
 
 ```txt
-Other                      14 hrs 2 mins       
-Groovy                     5 hrs 21 mins       
-Markdown                     5 hrs 1 min       
-Dart                        4 hrs 8 mins       
+Other                     11 hrs 46 mins       
+Markdown                   4 hrs 59 mins       
+Dart                       3 hrs 23 mins       
 Python                      1 hr 34 mins       
+MDX                          1 hr 6 mins       
 ```
 
 <!--END_SECTION:waka-->
